@@ -1,0 +1,1 @@
+print("Hi class, welcome to the second day")
